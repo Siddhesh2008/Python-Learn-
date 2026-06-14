@@ -16,7 +16,7 @@ while True:
 print("-----YOUR CART-----")
 
 for food in foods:
-    print(food,end=" ")
+    print(food,end=" v")
 
 for price in prices:
     total+=price
