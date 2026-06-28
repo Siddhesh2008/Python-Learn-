@@ -65,6 +65,7 @@ Mini-projects, games, and practical exercises.
 - **Language**: Python 3.x
 - **Editor**: Visual Studio Code
 - **VCS**: Git & GitHub
+- **GUI**: PyQt5
 
 ## 📈 Learning Journey
 
