@@ -51,6 +51,14 @@ Mini-projects, games, and practical exercises.
 - Utilities: Alarm Clock, Digital Clock, Stopwatch, Calculator, Temp Converter, Encrypter/Decrypter, user input validator, and weight converter.
 
 ---
+##Some example projects i made
+##ALARM CLOCK:
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/674d48d7-dfce-4e82-824a-18962f70b723" />
+
+##STOP WATCH:
+<img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/d429847d-f4e8-4137-9373-3b4abeaba54b" />
+
+
 
 ## 🛠️ Environment & Tools
 
